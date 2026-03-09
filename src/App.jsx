@@ -3,6 +3,8 @@
 
 import { useState } from "react"
 
+
+//BMI Calculator
 // let App=()=>{
 //   let[h,setH]=useState("")
 //   let[w,setW]=useState("")
